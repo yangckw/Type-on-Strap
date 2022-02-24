@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://yangckw.github.io"
+baseurl: "/"
+url: "https://blog.xyz365s.com"
 
 # THEME-SPECIFIC CONFIGURATION
-title: The Test BLOG System                             # site's title
-description: "A sample blog test"                       # used by search engines
+title: 多多&&豆豆                             # site's title
+description: "记录生活和工作的点点滴滴"                       # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: The Test BLOG System                       # Change Blog header text
+header_text: 多多&&豆豆                       # Change Blog header text
 header_feature_image: assets/img/pexels/triangular.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/yangckw/Type-on-Strap">yangckw</a>
@@ -53,4 +53,4 @@ plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules/*"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+#remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
